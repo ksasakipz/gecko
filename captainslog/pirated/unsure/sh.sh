@@ -39,5 +39,41 @@ echo 0 sphere &&
 ls
 
 clear
+storage_unit=1
+echoecho=2
+
+echo e
 echo Message sent successfully &&
+	echo $storage_unit
+	echo 1
+	echo echoecho
 	echo Message received successfully.
+clear
+echo deke-ing $echoecho
+echo : Command not found
+echo $
+echo initials
+echo $initials
+echo
+echo
+echo 2 line spaces above, 1 below
+echo
+$initials=KMS
+echo : Command not found
+echo $KMS
+echo : Command not found
+echo 0 line spaces above, 0 below
+echo , 0
+echo $
+echo
+echo
+echo
+echo 3 line spaces above, 1 below
+echo
+echo palindrome failed
+echo initials
+echo $initials
+echo 1
+echo $
+$=1
+echo palindrome complete
