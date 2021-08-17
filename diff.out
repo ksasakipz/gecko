@@ -1,0 +1,60 @@
+11c11
+< if __name__ == "__main__":
+---
+> if __name__ == "_main__":
+13c13
+<     off = 1
+---
+>     off = 0
+15c15
+<     success = (on + off == developing)
+---
+>     success = (on + off == devloping)
+20c20
+<             if str(on) + str(off) == "10":
+---
+>             if str(on) == str(off) == "10":
+23c23
+<                 pass 
+---
+>                 pass
+29c29
+<                 pass 
+---
+>                 pass
+32,33c32,33
+<             pass 
+<             # print(3456789012)
+---
+>             pass
+>                 # print(3456789012)
+35c35
+<         # print("A sucess: " + str(success))
+---
+>         # print("A success: " + str(success))
+37c37
+<         # print("B sucess: " + str(success))
+---
+>         # print("B success: " + str(success))
+39c39
+<         # print("C sucess: " + str(success))
+---
+>         # print("C success: " + str(success))
+43c43
+<     print(sys.argv[1:])
+---
+>     print(sys.argv[1:0])
+51c51
+<         index += 1
+---
+>         index+=1
+59c59
+<     
+---
+> 
+66,67c66,67
+<     success = False
+<     print("Success", success)
+---
+>     sucess = False
+>     print("Sucess", sucess)

@@ -1,0 +1,138 @@
+commit 745e3db75802a19241c84e418c718d37ce78a0e4
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Mon Aug 16 17:49:40 2021 -0700
+
+    edit readme
+
+commit e2cb2045f6161eced339ae815b0f4acddc435bfb
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Mon Aug 16 17:45:57 2021 -0700
+
+    Inject randomness resource (the secret ingredient) aka spontaneity
+
+commit 860cc3e7e21d12450974e4c48d82c16c45bfe6b8
+Merge: 43f9fa6 a3ae465
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Mon Aug 16 17:43:33 2021 -0700
+
+    Merge branch 'main' of github.com:ksasakipz/kevins_forest
+
+commit 43f9fa6a3f5f944169d52a83e751100fd1370007
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Mon Aug 16 17:42:54 2021 -0700
+
+    Resources acquired
+
+commit a3ae465987a44bc87d883a11bfe29f33a8c9aca8
+Merge: e12114f ca212a1
+Author: ksasakipz <32423411+ksasakipz@users.noreply.github.com>
+Date:   Mon Aug 16 08:33:11 2021 -0700
+
+    Merge pull request #2 from ksasakipz/ksasakipz-possible-gold
+    
+    Create Brainstorming file
+
+commit ca212a1563ea3f1459438db90dc4f7473169b92f
+Author: ksasakipz <32423411+ksasakipz@users.noreply.github.com>
+Date:   Mon Aug 16 08:31:17 2021 -0700
+
+    Create Brainstorming
+
+commit e12114fb34a9f50fd40b6c9f67c93ed3bbbf8c39
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Sat Aug 14 04:42:53 2021 -0700
+
+    Added kevins_controller.py
+
+commit 7c548920c3d989cc24242fcfe9b39b9b0fef23c3
+Merge: 574140e 9f20ed7
+Author: ksasakipz <32423411+ksasakipz@users.noreply.github.com>
+Date:   Sat Aug 14 04:39:30 2021 -0700
+
+    Merge pull request #1 from ksasakipz/ksasakipz-patch-1
+    
+    Add files via upload
+
+commit 9f20ed7be58b0efbcf41ad92854f6db8de4a30ed
+Author: ksasakipz <32423411+ksasakipz@users.noreply.github.com>
+Date:   Sat Aug 14 04:39:14 2021 -0700
+
+    Add files via upload
+
+commit 574140e926bf4f575b33cf00244e2aedf2327602
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Sun Jul 25 22:31:04 2021 -0700
+
+    planted tree
+
+commit 75ccb5ee0e59f40ea713d01b9ea19b310eb6128d
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Sun Jul 25 22:26:40 2021 -0700
+
+    Reorganize structure a bit
+
+commit 3507c6abd4cd9089f2fd7e1bd49aa614f7caee30
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Sun Jul 25 22:00:29 2021 -0700
+
+    Added directions directory and ls -lfa > ls.out command to pyramid.sh
+
+commit 953025852f3d641e0156e27beca387f5ebcc9969
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Sun Jul 25 20:50:02 2021 -0700
+
+    Added regular functions to shapes
+
+commit f8087a6a9109b946c4f804da826343a01e74a198
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Sun Jul 25 20:19:31 2021 -0700
+
+    Tried pi.py. Still not working
+
+commit 27745f687d0cc2ec45bed320c9001f44d1bb029b
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Sun Jul 25 15:33:08 2021 -0700
+
+    Init pi.py. Doesn't work
+
+commit b479f749f78f72cea3f58d04ffaa0015106579d7
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Sun Jul 25 15:12:41 2021 -0700
+
+    Added entrance and exit
+
+commit 23c5acf7150b583fe486c9a727994106216975e5
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Sun Jul 25 15:11:25 2021 -0700
+
+    first commit
+
+commit 599d2f976fc04b445b8cf76b2abdda4a89392854
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Sun Jul 25 15:10:57 2021 -0700
+
+    first commit
+
+commit fe6f2ae71d3f14ee0a4d10db41df90a2e7d4cf8a
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Sun Jul 25 15:07:05 2021 -0700
+
+    first commit
+
+commit 5822eaab15a49fa27a5b8cb79657c15dd90e77cd
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Sun Jul 25 15:06:38 2021 -0700
+
+    Added 100_acre_woods
+
+commit cc5ba1cb5f144a880aaa459f7fa20f7fe559c344
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Sun Jul 25 15:05:32 2021 -0700
+
+    first commit
+
+commit fea32c705eb70ac02ec860f0dc45c1d0c86ca574
+Author: ksasakipz <ksasaki@students.pitzer.edu>
+Date:   Sun Jul 25 11:46:59 2021 -0700
+
+    first commit
