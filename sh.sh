@@ -37,3 +37,7 @@ echo 0 sphere &&
 	echo 4
 
 ls
+
+clear
+echo Message sent successfully &&
+	echo Message received successfully.
