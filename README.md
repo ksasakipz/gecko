@@ -1,4 +1,15 @@
 Kevin
+Notes on chmod
+chmod assumes three classes of people
+1. user (u) the person who created the file
+2. group (g) people in the selected group
+3. other (o) everyone else on the system
+The three classes of people have three classes of permissions each
+1. read (r) ability to see the contents of the file
+2. write (w) ability to change the contents of the file
+3. execute (x) ability to execute the contents of the file
+The command 'ls -l' will display the listing of files and their permissions
+End Notes on chmod
 # Sponger Theory
 # Marker Theory
 Mark Down Theory
