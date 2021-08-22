@@ -1,8 +1,0 @@
-Kevin Sasaki
-many to one
-for file in directory/*.txt; do cat "$file" >> someotherdir/combined.txt; done
-many to many
-for file in directory/*.txt; do cp "$file" someotherdir/"$( basename "$file" )".copy ; done
-one to many
-level0
-lonetwothree12m
