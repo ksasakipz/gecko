@@ -1,7 +1,0 @@
-Pair programming
-Rule 1: Always code in pairs.
-Rule 2: Left must be the if case.
-Rule 3: Right may choose to add an elif case or omit an elif case.
-Rule 4: Wrong is Left ending the sequence.
-Rule 5: Correct is Right with the else case.
-Rule 6: Left and Right must take turns.
